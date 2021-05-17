@@ -1,1 +1,3 @@
-# OOP-Encapsulation-and-Graphics 
+# OOP-Encapsulation-and-Graphics
+
+### Summer 2019
